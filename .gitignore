@@ -34,4 +34,3 @@ build/
 mvnw
 mvnw.cmd
 src/test/
-.mvn/wrapper/maven-wrapper.properties
